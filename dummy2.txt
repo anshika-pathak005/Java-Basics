@@ -1,0 +1,11 @@
+History of Java
+
+Java is a high-level programming language that was developed by James Gosling and his team at Sun Microsystems in the early 1990s. The project was initially called "Oak" and was designed for use in embedded systems like televisions and set-top boxes.
+
+In 1995, the language was officially renamed Java and released to the public. It quickly became popular because of its platform independence, meaning programs written in Java could run on any device that had a Java Virtual Machine (JVM). This idea was captured in the slogan “Write Once, Run Anywhere.”
+
+During the late 1990s and early 2000s, Java became widely used for building web applications, enterprise software, and mobile applications. It played a major role in the development of Android apps as well.
+
+In 2010, Oracle Corporation acquired Sun Microsystems, and since then, Java has continued to evolve with regular updates, new features, and improvements in performance and security.
+
+Today, Java remains one of the most popular and widely used programming languages in the world, especially in enterprise development, backend systems, and large-scale applications.
